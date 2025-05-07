@@ -1,0 +1,25 @@
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\bin\Debug\Assignment.exe
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\bin\Debug\Assignment.pdb
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.exe
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\Assignment.pdb
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\System.InputBoxDialogCode.resources
+C:\Users\typal\Documents\WITS\INFO LABS\Assignment\obj\Debug\System.InputBoxDialogQuantity.resources
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\bin\Debug\Assignment.exe.config
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\bin\Debug\Assignment.exe
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\bin\Debug\Assignment.pdb
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.Form1.resources
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\System.InputBoxDialogCode.resources
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\System.InputBoxDialogQuantity.resources
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.exe
+D:\ComSci\IS\Assignment\AssignmentPart2\Assignment\obj\Debug\Assignment.pdb
